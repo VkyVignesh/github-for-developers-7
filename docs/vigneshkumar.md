@@ -1,3 +1,5 @@
 ## Intro
  **name:**  *vignesh*
 **Favourite color :** Yellow
+**Native :** Tamilnadu
+*Working as Android developer*
